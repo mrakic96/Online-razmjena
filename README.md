@@ -1,2 +1,2 @@
-# Online-galerija
+# Online-razmjena
 Projektiranje informacijskih sustava
